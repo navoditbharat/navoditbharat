@@ -1,7 +1,6 @@
 ### Hi there 👋 Nice to see you here. 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Samsung Research and Development Institute, Delhi
 - 🌱 currently working in Full Stack using MERN.
